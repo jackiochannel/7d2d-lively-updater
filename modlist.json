@@ -1,6 +1,6 @@
 {
   "version": "0.0.1",
-  "generated_at": "2026-06-20T06:41:56.360295",
+  "generated_at": "2026-06-20T06:55:14.052017",
   "total_files": 34,
   "total_size": 2434602,
   "files": [
@@ -10,9 +10,9 @@
       "sha256": "4bc44bd2f3a58fe1fa1be618bff0db9ca943ab999674f677bdfbc7b8b306abee"
     },
     {
-      "path": "AGF-HUDPlus-1Main-v6.0.4\\ReadableReadMe.txt",
-      "size": 20754,
-      "sha256": "e4383ffc58769d7792cfa6fae97f5d079f0174a3fccc96c82f2a4c72eb9e2810"
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\items.xml",
+      "size": 868,
+      "sha256": "fa6724381a65ee46af6733e7d2a997a3b44d71977b6c84d08051040a626625dc"
     },
     {
       "path": "AGF-HUDPlus-1Main-v6.0.4\\README.md",
@@ -20,14 +20,9 @@
       "sha256": "b26727bf54a8a9c2809e8f346cb602a22f2eaa43185dbe175889a9d1de27d343"
     },
     {
-      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\items.xml",
-      "size": 868,
-      "sha256": "fa6724381a65ee46af6733e7d2a997a3b44d71977b6c84d08051040a626625dc"
-    },
-    {
-      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.backup-20260614-232333.txt",
-      "size": 21638,
-      "sha256": "4f86b507cd10cfe7d08ff7c10da70675c99974d82770ff4a7a5a8cb21960ba84"
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\ReadableReadMe.txt",
+      "size": 20754,
+      "sha256": "e4383ffc58769d7792cfa6fae97f5d079f0174a3fccc96c82f2a4c72eb9e2810"
     },
     {
       "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.csv",
@@ -35,9 +30,19 @@
       "sha256": "f39366af45ca6ed8a019dc22603f739ad7f0fb4497d679f2a0ec88b343b15a66"
     },
     {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.backup-20260614-232333.txt",
+      "size": 21638,
+      "sha256": "4f86b507cd10cfe7d08ff7c10da70675c99974d82770ff4a7a5a8cb21960ba84"
+    },
+    {
       "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.txt",
       "size": 26237,
       "sha256": "3f389f1497d30006e4bbc00fd1371476ecab7a42542b358654fd09a02f5faada"
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_Common\\styles.xml",
+      "size": 2703,
+      "sha256": "5d1669f0c3ba9b55f3b15e03c1703843962c7fa082c45084e82b1e5535bd96a1"
     },
     {
       "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\templates.xml",
@@ -45,9 +50,9 @@
       "sha256": "59da4a9e7ede2fcc35db9aadd6a122f1219af11539bcbaedbef57d3dbc9c688a"
     },
     {
-      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_Common\\styles.xml",
-      "size": 2703,
-      "sha256": "5d1669f0c3ba9b55f3b15e03c1703843962c7fa082c45084e82b1e5535bd96a1"
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\text",
+      "size": 8991,
+      "sha256": "3af1ace193eb8ff8034af7be94eee58df14762d05bde44508d95def1d5bbe95e"
     },
     {
       "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\windows.xml",
@@ -60,19 +65,14 @@
       "sha256": "0521b9ea5dc6d484c4b3c0a4f8da99f426db419c15b2621acee994c7f59680ee"
     },
     {
-      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\text",
-      "size": 8991,
-      "sha256": "3af1ace193eb8ff8034af7be94eee58df14762d05bde44508d95def1d5bbe95e"
+      "path": "ANZ_Electric_Spear\\ModInfo.xml",
+      "size": 299,
+      "sha256": "742a9a0d972bb118271f0e9e5ab2bdff8ebe809b5430553ace15d704a9ecb750"
     },
     {
       "path": "ANZ_Electric_Spear\\Config\\buffs.xml",
       "size": 382,
       "sha256": "07a44e01854f817ce6ab7df762e894f449e8f6868667aaf4ac3c6144dc0c3dfd"
-    },
-    {
-      "path": "ANZ_Electric_Spear\\ModInfo.xml",
-      "size": 299,
-      "sha256": "742a9a0d972bb118271f0e9e5ab2bdff8ebe809b5430553ace15d704a9ecb750"
     },
     {
       "path": "ANZ_Electric_Spear\\Config\\items.xml",
@@ -100,11 +100,6 @@
       "sha256": "325351a167f06f15cd8fa56f0f7be14e9f3402cf25d9df9d3bb5b83a9191335d"
     },
     {
-      "path": "Chaos-Relics-Backpack-v3.0\\ModInfo.xml",
-      "size": 369,
-      "sha256": "e4a0d7c74fac550acbf7e46aa384f582099c4108c04c31a47a119068ababd27d"
-    },
-    {
       "path": "Chaos-Relics-Backpack-v3.0\\CHANGELOG.md",
       "size": 1279,
       "sha256": "33bc9a27473eedeced4042dfcaaefaae3887f28cb7fb031926f68e68a68eb989"
@@ -115,14 +110,9 @@
       "sha256": "7e191f45cbee175d1c79f64b03cd88a43ef95a0d32331b87367391beb5fb0f19"
     },
     {
-      "path": "AGF-HUDPlus-1Main-v6.0.4\\AGF-HUDPlus-1Main_01.png",
-      "size": 1955756,
-      "sha256": "8636b61f62fdf929725bf51902f7aafc3a530d3bc069f54933f59cb69f064760"
-    },
-    {
-      "path": "Chaos-Relics-Backpack-v3.0\\Config\\entityclasses.xml",
-      "size": 511,
-      "sha256": "61213bd4846016e25895ac121fcf39f5e2801133336646bf3b5319fbb752f07a"
+      "path": "Chaos-Relics-Backpack-v3.0\\ModInfo.xml",
+      "size": 369,
+      "sha256": "e4a0d7c74fac550acbf7e46aa384f582099c4108c04c31a47a119068ababd27d"
     },
     {
       "path": "Chaos-Relics-Backpack-v3.0\\README.md",
@@ -135,6 +125,11 @@
       "sha256": "ccd2b1cf76667433c3ad3dd444ce091df7812237177bb2eb93df817ba3b220f7"
     },
     {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\entityclasses.xml",
+      "size": 511,
+      "sha256": "61213bd4846016e25895ac121fcf39f5e2801133336646bf3b5319fbb752f07a"
+    },
+    {
       "path": "Chaos-Relics-Backpack-v3.0\\Config\\loot.xml",
       "size": 116,
       "sha256": "0eb2782294d1bd930dbd5ee38a5722841c2c15f1084eac882656eb13cfef9ac1"
@@ -145,19 +140,19 @@
       "sha256": "ca283c50e2a89c37354520ff223ee611c634923c2da4291ce5258427d9cd02cd"
     },
     {
-      "path": "Chaos-Relics-Backpack-v3.0\\Config\\XUi_InGame\\xui.xml",
-      "size": 156,
-      "sha256": "ae4785512e780b005bdc2e342d865ccc4184e6fba62a109bfdeeded0c31d85ad"
-    },
-    {
       "path": "Chaos-Relics-Backpack-v3.0\\Config\\XUi_InGame\\windows.xml",
       "size": 990,
       "sha256": "f65f608c92df88512c82104c86a6245bd815ede4cd8e09bdbac1f0a4c3e11638"
     },
     {
-      "path": "Chaos-Relics-Backpack-v3.0\\ScreenShots\\251570_52.jpg",
-      "size": 80246,
-      "sha256": "ca8610f123b0500bac30b56ad90581b398906c9390df09a2a01aa9fe3dae225d"
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\AGF-HUDPlus-1Main_01.png",
+      "size": 1955756,
+      "sha256": "8636b61f62fdf929725bf51902f7aafc3a530d3bc069f54933f59cb69f064760"
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\XUi_InGame\\xui.xml",
+      "size": 156,
+      "sha256": "ae4785512e780b005bdc2e342d865ccc4184e6fba62a109bfdeeded0c31d85ad"
     },
     {
       "path": "Chaos-Relics-Backpack-v3.0\\UI-Presets\\xui_16x9.xml",
@@ -173,6 +168,11 @@
       "path": "Chaos-Relics-Backpack-v3.0\\UI-Presets\\xui_4k.xml",
       "size": 124,
       "sha256": "66ea91972dbc51036ed6a07daaf17acd6765a083b5c729d62d5e3663975631e5"
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\ScreenShots\\251570_52.jpg",
+      "size": 80246,
+      "sha256": "ca8610f123b0500bac30b56ad90581b398906c9390df09a2a01aa9fe3dae225d"
     }
   ]
 }

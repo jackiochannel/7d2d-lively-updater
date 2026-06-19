@@ -1,0 +1,144 @@
+{
+  "version": "0.0.1",
+  "generated_at": "2026-06-20T05:21:56.181948",
+  "total_files": 34,
+  "total_size": 2434602,
+  "files": [
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\AGF-HUDPlus-1Main_01.png",
+      "size": 1955756
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\ModInfo.xml",
+      "size": 373
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\ReadableReadMe.txt",
+      "size": 20754
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\README.md",
+      "size": 19682
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\items.xml",
+      "size": 868
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.backup-20260614-232333.txt",
+      "size": 21638
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.csv",
+      "size": 22167
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\Localization.txt",
+      "size": 26237
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_Common\\styles.xml",
+      "size": 2703
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\templates.xml",
+      "size": 7483
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\text",
+      "size": 8991
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\windows.xml",
+      "size": 81809
+    },
+    {
+      "path": "AGF-HUDPlus-1Main-v6.0.4\\Config\\XUi_InGame\\xui.xml",
+      "size": 271
+    },
+    {
+      "path": "ANZ_Electric_Spear\\ModInfo.xml",
+      "size": 299
+    },
+    {
+      "path": "ANZ_Electric_Spear\\Config\\buffs.xml",
+      "size": 382
+    },
+    {
+      "path": "ANZ_Electric_Spear\\Config\\items.xml",
+      "size": 24901
+    },
+    {
+      "path": "ANZ_Electric_Spear\\Config\\item_modifiers.xml",
+      "size": 468
+    },
+    {
+      "path": "ANZ_Electric_Spear\\Config\\Localization.csv",
+      "size": 3363
+    },
+    {
+      "path": "ANZ_Electric_Spear\\Config\\progression.xml",
+      "size": 681
+    },
+    {
+      "path": "ANZ_Electric_Spear\\Config\\recipes.xml",
+      "size": 719
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\CHANGELOG.md",
+      "size": 1279
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Chaos-Relics-Backpack.jpg",
+      "size": 147568
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\ModInfo.xml",
+      "size": 369
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\README.md",
+      "size": 2426
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\buffs.xml",
+      "size": 473
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\entityclasses.xml",
+      "size": 511
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\loot.xml",
+      "size": 116
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\progression.xml",
+      "size": 551
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\XUi_InGame\\windows.xml",
+      "size": 990
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\Config\\XUi_InGame\\xui.xml",
+      "size": 156
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\ScreenShots\\251570_52.jpg",
+      "size": 80246
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\UI-Presets\\xui_16x9.xml",
+      "size": 124
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\UI-Presets\\xui_21x9.xml",
+      "size": 124
+    },
+    {
+      "path": "Chaos-Relics-Backpack-v3.0\\UI-Presets\\xui_4k.xml",
+      "size": 124
+    }
+  ]
+}
